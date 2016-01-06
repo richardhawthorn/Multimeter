@@ -1,0 +1,26 @@
+Partlist exported from /Users/richard/Projects/Multimeter/PCB/Multimeter1.2/Multimeter1.2.sch at 7/30/15 9:30 PM
+
+Qty Value       Device                       Package                   Parts                          Description                      
+1               PN87520                      PN87520                   USB2                           BERG USB connector               
+3   0.1         CAPPTH2                      CAP-PTH-SMALL2            C1, C2, C4                     Capacitor                        
+1   10K         R-US_0204/7                  0204/7                    R9                             RESISTOR, American symbol        
+3   10k         R-US_0204/7                  0204/7                    R16, R17, R18                  RESISTOR, American symbol        
+1   10uf        CAPPTH2                      CAP-PTH-SMALL2            C3                             Capacitor                        
+1   12k         R-US_0204/7                  0204/7                    R11                            RESISTOR, American symbol        
+2   1k5         R-US_0204/7                  0204/7                    R12, R13                       RESISTOR, American symbol        
+1   1r          R-US_0204/7                  0204/7                    R14                            RESISTOR, American symbol        
+1   2k          R-US_0204/7                  0204/7                    R15                            RESISTOR, American symbol        
+2   5.1V        BZX90                        DO34Z7                    D1, D2                         Z DIODE                          
+1   500mA       B57164                       B57164                    R10                            SIEMENS NTC                      
+1   7SEG-4DIGIT 7SEG-4DIGIT                  SPARKFUN_7-SEGMENT-4DIGIT LED1                                                            
+8   82          R-US_0204/7                  0204/7                    R1, R2, R3, R4, R5, R6, R7, R8 RESISTOR, American symbol        
+1   8M10AHC49T  8M10AHC49T                   HC49U                     QF1                            Monolithic Crystal Filters       
+1   ATMEGA      ATMEGA168PROUND              DIL28-3-ROUND             IC1                            MICROCONTROLLER                  
+3   BANANA      BANANA                       BANANA                    U$1, U$5, U$6                                                   
+1   F/QMBIII    F/QMBIII                     F/QMBIII                  BZ1                            BUZZER Source: Buerklin          
+1   F/TMB       F/TMB                        F/TMB                     BZ2                            BUZZER Source: Buerklin          
+1   FTDI        PINHD-1X6                    1X06                      CN4                            PIN HEADER                       
+1   ICSP        PINHD-2X3                    2X03                      ICSP1                          PIN HEADER                       
+1   LM358N      LM358N                       DIL08                     IC4                            OP AMP also LM158; LM258; LM2904 
+1   SELECT      DTS-3                        DTS-3                     BTN1                                                            
+1   USB         MINI-USB_SHIELD5P2-32005-601 32005-601                 X1                             MINI USB-B R/A DIP 5pol.         
